@@ -20,4 +20,3 @@
 2. How did you resolve it?
 
 3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
-   -
