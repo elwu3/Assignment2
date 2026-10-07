@@ -19,4 +19,8 @@
 
 2. How did you resolve it?
 
+We utilized Merge Editor and combined our two ideas into one to resolve the Git error.
+
 3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
+   - Working together in person so any issues can easily be resolved and you can see each other's screens. This way any time someone committs the other person will know.
+   - Making sure that you're constantly pulling and syncing so that you are all on the same page and also confirming that both of you are seeing the same thing.
