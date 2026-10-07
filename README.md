@@ -4,8 +4,8 @@
 
 - Student A: Reethu Teegala
 - GitHub username: rteegala19
-- Student B:
-- GitHub username:
+- Student B: Elizabeth Wu
+- GitHub username: elwu3
 
 ## Branch Work
 
