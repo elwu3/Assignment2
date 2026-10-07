@@ -16,6 +16,7 @@
 ## Conflict Reflection
 
 1. Why did the intentional conflict happen?
+We edited the same line of the index.html and put conflicting things. Student A's was synced, but Student B hadn't pulled it yet so they didn't get the update.
 
 2. How did you resolve it?
 
